@@ -9,8 +9,8 @@
 ## [Unreleased]
 
 ### Added
-- 新增 `qtacademy/issues/`，收录实训基地议题（首篇：课题结项初审议事，脱敏版）
-- 新增 `qtalliance/issues/`，收录联盟议题（首篇：新商业模式——数字化改造经验的服务化）
+- 新增 `qtacademy/drafts/`，收录实训基地草案（首篇：课题结项初审议事，脱敏版）
+- 新增 `qtalliance/drafts/`，收录联盟草案（首篇：新商业模式——数字化改造经验的服务化）
 
 ### Changed
 - 决议标本按主体组织：`resolutions/` 移动至 `qttech/resolutions/`
